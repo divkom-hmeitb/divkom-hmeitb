@@ -5,17 +5,17 @@
 
 ## 🌟 Tentang Divisi Komputer
 
-**Divisi Komputer** (sering disingkat *Divkom*) adalah salah satu divisi keprofesian di bawah naungan **Himpunan Mahasiswa Elektroteknik (HME) ITB** — bersama dengan Divisi Workshop dan Divisi Elektron. Fokus Divisi Komputer adalah pada bidang **komputer, pemrograman, jaringan, dan teknologi informasi** secara umum. :contentReference[oaicite:0]{index=0}
+**Divisi Komputer** (sering disingkat *Divkom*) adalah salah satu divisi keprofesian di bawah naungan **Himpunan Mahasiswa Elektroteknik (HME) ITB** — bersama dengan Divisi Workshop dan Divisi Elektron. Fokus Divisi Komputer adalah pada bidang **komputer, pemrograman, jaringan, dan teknologi informasi** secara umum.
 
-Sebagai ruang bagi mahasiswa untuk **berkarya, belajar, dan berkolaborasi di bidang komputer**, Divisi Komputer HME ITB menampung anggota yang memiliki minat kuat pada teknologi digital, sistem jaringan, serta pengembangan perangkat lunak dan perangkat keras terkait. :contentReference[oaicite:1]{index=1}
+Sebagai ruang bagi mahasiswa untuk **berkarya, belajar, dan berkolaborasi di bidang komputer**, Divisi Komputer HME ITB menampung anggota yang memiliki minat kuat pada teknologi digital, sistem jaringan, serta pengembangan perangkat lunak dan perangkat keras terkait. 
 
 ---
 
 ## 🏛️ Sekilas tentang HME ITB
 
-**Himpunan Mahasiswa Elektroteknik (HME) ITB** adalah organisasi kemahasiswaan yang menghimpun mahasiswa program S1 Teknik Elektro, Teknik Tenaga Listrik, dan Teknik Biomedis di Institut Teknologi Bandung (ITB). HME ITB menjadi wadah untuk meningkatkan *hard skill, soft skill, dan life skill* anggotanya melalui berbagai kegiatan keprofesian dan organisasi. :contentReference[oaicite:2]{index=2}
+**Himpunan Mahasiswa Elektroteknik (HME) ITB** adalah organisasi kemahasiswaan yang menghimpun mahasiswa program S1 Teknik Elektro, Teknik Tenaga Listrik, dan Teknik Biomedis di Institut Teknologi Bandung (ITB). HME ITB menjadi wadah untuk meningkatkan *hard skill, soft skill, dan life skill* anggotanya melalui berbagai kegiatan keprofesian dan organisasi.
 
-Divisi Komputer merupakan salah satu elemen utama di HME ITB yang mendorong kemajuan divisi dalam ranah teknologi komputer. :contentReference[oaicite:3]{index=3}
+Divisi Komputer merupakan salah satu elemen utama di HME ITB yang mendorong kemajuan divisi dalam ranah teknologi komputer. 
 
 ---
 
@@ -28,8 +28,6 @@ Menjadi wadah utama bagi mahasiswa HME ITB untuk mengembangkan kompetensi teknol
 - Mendorong pembelajaran teknologi komputer dan jaringan.
 - Menjalankan proyek teknologi yang bermanfaat bagi anggota dan masyarakat umum.
 - Mengembangkan portofolio anggota melalui kolaborasi dan praktik nyata.
-
-*(Bagian visi & misi dapat disesuaikan lebih lanjut dengan tujuan divisi di periode kepengurusan Anda.)*
 
 ---
 
